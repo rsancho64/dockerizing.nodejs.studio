@@ -1,0 +1,18 @@
+{
+  "name": "dockerizing.nodejs.studio",
+  "version": "1.0.0",
+  "description": "estudiamos [**esto**](https://www.docker.com/blog/getting-started-with-docker-using-node-jspart-i/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+    
+
+    
+  }
+}
