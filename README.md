@@ -1,5 +1,5 @@
 Estudiamos [**esto**](https://www.docker.com/blog/getting-started-with-docker-using-node-jspart-i/)
-
+actualización (2024) [**aqui**](https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker)
 ## Build image:
     `docker build --tag node-docker .`
 
